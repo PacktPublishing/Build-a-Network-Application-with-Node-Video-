@@ -1,0 +1,11 @@
+Error: Oops...
+    at exports.index (/Users/stanco/dev/node_course/7/7.4/todo/routes/index.js:9:9)
+    at callbacks (/Users/stanco/dev/node_course/7/7.4/todo/node_modules/express/lib/router/index.js:164:37)
+    at param (/Users/stanco/dev/node_course/7/7.4/todo/node_modules/express/lib/router/index.js:138:11)
+    at pass (/Users/stanco/dev/node_course/7/7.4/todo/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/Users/stanco/dev/node_course/7/7.4/todo/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/Users/stanco/dev/node_course/7/7.4/todo/node_modules/express/lib/router/index.js:33:10)
+    at next (/Users/stanco/dev/node_course/7/7.4/todo/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at Object.logger (/Users/stanco/dev/node_course/7/7.4/todo/node_modules/express/node_modules/connect/lib/middleware/logger.js:156:5)
+    at next (/Users/stanco/dev/node_course/7/7.4/todo/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at Object.urlencoded [as handle] (/Users/stanco/dev/node_course/7/7.4/todo/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:49:37)

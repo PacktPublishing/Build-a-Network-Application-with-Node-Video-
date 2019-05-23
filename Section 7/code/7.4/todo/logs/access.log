@@ -1,0 +1,30 @@
+[90mGET / [32m200 [90m1ms - 381b[0m
+[90mGET / [32m200 [90m1ms - 381b[0m
+[90mGET / [32m200 [90m1ms - 381b[0m
+[90mGET / [32m200 [90m0ms - 381b[0m
+[90mGET / [31m500 [90m8ms[0m
+[90mGET / [31m500 [90m1ms[0m
+[90mGET / [31m500 [90m2ms[0m
+[90mGET / [31m500 [90m6ms[0m
+[90mGET / [31m500 [90m2ms[0m
+[90mGET / [31m500 [90m1ms[0m
+[90mGET / [31m500 [90m1ms[0m
+[90mGET /badurl [33m404 [90m3ms[0m
+[90mGET /badurl [33m404 [90m1ms[0m
+[90mGET /badurl [33m404 [90m1ms[0m
+[90mGET /badurl [33m404 [90m0ms[0m
+[90mGET /badurl [32m200 [90m2ms - 49b[0m
+[90mGET /badurl [32m200 [90m3ms - 49b[0m
+[90mGET /badurl [32m200 [90m1ms - 49b[0m
+[90mGET / [32m200 [90m4ms - 48b[0m
+[90mGET / [32m200 [90m4ms - 48b[0m
+[90mGET /badurl [32m200 [90m16ms - 49b[0m
+[90mGET / [32m200 [90m5ms - 48b[0m
+[90mGET /badurl [32m200 [90m8ms - 49b[0m
+[90mGET / [32m200 [90m4ms - 48b[0m
+[90mGET /badurl [32m200 [90m6ms - 49b[0m
+[90mGET / [32m200 [90m1ms - 48b[0m
+[90mGET /badurl [32m200 [90m7ms - 49b[0m
+[90mGET / [32m200 [90m1ms - 48b[0m
+[90mGET / [32m200 [90m6ms - 48b[0m
+[90mGET /badurl [32m200 [90m24ms - 49b[0m

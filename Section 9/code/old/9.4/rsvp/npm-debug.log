@@ -1,0 +1,31 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/stanco/.nvm/v0.10.3/bin/node',
+1 verbose cli   '/Users/stanco/.nvm/v0.10.3/bin/npm',
+1 verbose cli   'stop' ]
+2 info using npm@1.2.17
+3 info using node@v0.10.3
+4 verbose read json /Users/stanco/dev/node_course/9/9.4/rsvp/package.json
+5 verbose run-script [ 'prestop', 'stop', 'poststop' ]
+6 info prestop rsvp@0.0.1
+7 info stop rsvp@0.0.1
+8 verbose unsafe-perm in lifecycle true
+9 silly exec sh "-c" "forever stop app.js"
+10 silly sh,-c,forever stop app.js,/Users/stanco/dev/node_course/9/9.4/rsvp spawning
+11 info rsvp@0.0.1 Failed to exec stop script
+12 error rsvp@0.0.1 stop: `forever stop app.js`
+12 error `sh "-c" "forever stop app.js"` failed with 1
+13 error Failed at the rsvp@0.0.1 stop script.
+13 error This is most likely a problem with the rsvp package,
+13 error not with npm itself.
+13 error Tell the author that this fails on your system:
+13 error     forever stop app.js
+13 error You can get their info via:
+13 error     npm owner ls rsvp
+13 error There is likely additional logging output above.
+14 error System Darwin 11.4.2
+15 error command "/Users/stanco/.nvm/v0.10.3/bin/node" "/Users/stanco/.nvm/v0.10.3/bin/npm" "stop"
+16 error cwd /Users/stanco/dev/node_course/9/9.4/rsvp
+17 error node -v v0.10.3
+18 error npm -v 1.2.17
+19 error code ELIFECYCLE
+20 verbose exit [ 1, true ]
