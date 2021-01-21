@@ -4,6 +4,6 @@
   "description": "Web server using Connect middleware",
   "main": "app.js",
   "dependencies": {
-    "connect": "~2.7.6"
+    "connect": "~3.7.0"
   }
 }
