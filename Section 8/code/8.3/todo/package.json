@@ -8,7 +8,7 @@
     "stop": "forever stop app.js"
   },
   "dependencies": {
-    "express": "3.4",
+    "express": "4.17",
     "connect-redis": "~1.4.5",
     "ejs": "~0.8.4",
     "express-partials": "~0.1.1"
